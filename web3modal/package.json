@@ -1,0 +1,27 @@
+{
+	"name": "next-starter-template",
+	"version": "0.1.1",
+	"license": "MIT",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@lens-protocol/react-web": "^2.0.0-alpha.21",
+		"@lens-protocol/wagmi": "^3.0.0-alpha.18",
+		"@types/node": "18.18.9",
+		"@types/react": "18.2.37",
+		"@types/react-dom": "18.2.15",
+		"@web3modal/wagmi": "3.2.1",
+		"eslint": "8.53.0",
+		"eslint-config-next": "13.5.6",
+		"next": "13.5.6",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"typescript": "5.2.2",
+		"viem": "^1.19.3",
+		"wagmi": "^1.4.7"
+	}
+}
