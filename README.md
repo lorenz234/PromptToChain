@@ -5,3 +5,4 @@ Blockchain Backend Solution to Showcase an AI Verification System to Combat Fake
 
 This platform demonstrates how blockchain and AI can synergistically protect users from unverified AI-generated images. Using an open ledger, it allows anyone to verify if, who, and when an AI image was generated. Through this project, I aim to inspire LLM developers to incorporate blockchain solutions as safeguards against the misuse of AI in creating fake news.
 
+[ETH Global submission link](https://ethglobal.com/showcase/prompt-to-chain-66hqe)
